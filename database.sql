@@ -46,7 +46,7 @@ CREATE TABLE response_task(
 
 -- МАРШРУТ
 INSERT INTO route (route_number, start_point, endpoint, importance_factor) VALUES
-(' №12', 'Інститу звязку', 'Левада', 1.2),
+(' №12', 'Інститут звязку', 'Левада', 1.2),
 (' №2', 'Розсошинці', 'Північний', 1.5);
 
 -- ТРАНСПОРТНИЙ ЗАСІБ
